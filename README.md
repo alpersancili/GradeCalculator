@@ -32,4 +32,13 @@ This project showcases the power of Python and Streamlit in building simple yet 
 
 Feel free to explore, modify, and use this tool as needed. Contributions are welcome!
 
+To explore the project in more detail, you can access my Hugging Face profiles through these links:
+
+Hugging Face: https://huggingface.co/spaces/Alpersx/calculater
+
+
+
+
+
+
 
